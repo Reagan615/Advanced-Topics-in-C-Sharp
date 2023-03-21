@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Advanced-Topics-in-C-Sharp", "Advanced-Topics-in-C-Sharp\Advanced-Topics-in-C-Sharp.csproj", "{FA4E0BD0-CB83-447B-BD93-FBD4F272FB4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Advanced-Topics-in-C-Sharp_Lab01", "Advanced-Topics-in-C-Sharp_Lab01\Advanced-Topics-in-C-Sharp_Lab01.csproj", "{8BB5A649-82D3-4C46-BA67-87FBF428B762}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA4E0BD0-CB83-447B-BD93-FBD4F272FB4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA4E0BD0-CB83-447B-BD93-FBD4F272FB4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA4E0BD0-CB83-447B-BD93-FBD4F272FB4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA4E0BD0-CB83-447B-BD93-FBD4F272FB4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BB5A649-82D3-4C46-BA67-87FBF428B762}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BB5A649-82D3-4C46-BA67-87FBF428B762}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BB5A649-82D3-4C46-BA67-87FBF428B762}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BB5A649-82D3-4C46-BA67-87FBF428B762}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE4C0D8D-C481-4829-88CA-BEEB5C897CE1}
+	EndGlobalSection
+EndGlobal
