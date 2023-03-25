@@ -1,7 +1,8 @@
-﻿//concatenated
+﻿
 
 using System.Text;
 
+//concatenate
 void Concatenate(string wordArg, int numArg)
 {
     Console.WriteLine(new StringBuilder(wordArg.Length * numArg)
@@ -11,9 +12,7 @@ void Concatenate(string wordArg, int numArg)
 Concatenate("abcd", 3);
 
 
-
-
-//removes
+//remove
 void RemoveString(string wordArg, int numArg)
 {
     Console.WriteLine(wordArg.Remove(wordArg.Length - numArg, numArg));
